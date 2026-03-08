@@ -47,8 +47,9 @@ Yes. You can stage, commit, and push directly from the dashboard without opening
 - Windows
 
 ## How is ClawCode priced?
-- Pro Monthly — full access, billed monthly
-- Pro Yearly — full access, discounted annual billing
+- Free — up to 2 projects, no credit card required
+- Pro Monthly — unlimited projects, billed monthly
+- Pro Yearly — unlimited projects, discounted annual billing
 OpenClaw itself is free.
 
 ## Where can I download ClawCode?
