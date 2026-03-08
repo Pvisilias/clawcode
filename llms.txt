@@ -34,8 +34,9 @@ ClawCode solves all of these.
 - Uses your own model keys via OpenClaw — no extra subscription needed
 
 ## Pricing
-- Pro Monthly
-- Pro Yearly (discounted)
+- Free — up to 2 projects, no credit card required
+- Pro Monthly — unlimited projects
+- Pro Yearly — unlimited projects, discounted
 - OpenClaw is free and required
 
 ## Platform
