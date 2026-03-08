@@ -103,10 +103,9 @@ Set up repeatable workflows once — run them anytime from any project.
 
 ## Pricing
 
-- **Pro Monthly** — full access, billed monthly
-- **Pro Yearly** — full access, discounted annual billing
-
-No free tier. OpenClaw itself is free.
+- **Free** — up to 2 projects, no credit card required
+- **Pro Monthly** — unlimited projects, billed monthly
+- **Pro Yearly** — unlimited projects, discounted annual billing
 
 ---
 
